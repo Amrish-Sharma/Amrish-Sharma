@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on [@bssastrologyservices website](https://github.com/CodeBuzz/bssastrology)
-- 🌱 I’m currently learning Python Flask,API,Javascript, Frameworks
+- 🌱 I’m currently learning Python Flask,API,Java, Frameworks
 - 👯 I’m looking to collaborate on Anything Exciting
-- 🤔 I’m looking for help with Javascript framworks
+- 🤔 I’m looking for help with Java
 - 💬 Ask me about Unix, Javascipt,Python, Android
 - 📫 How to reach me: [@codenamebazinga](https://twitter.com/codenamebazinga)
 - 😄 Pronouns: Troubleshooter, Go-to-Guy
