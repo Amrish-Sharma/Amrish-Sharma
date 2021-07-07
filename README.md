@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on [@bssastrologyservices website](https://github.com/CodeBuzz/bssastrology)
-- 🌱 I’m currently learning Python Flask,API,Java, Frameworks
+- 🔭 I’m currently working on my DevOps Skills
+- 🌱 I’m currently learning Docker,Ansible,Kubernetes
 - 👯 I’m looking to collaborate on Anything Exciting
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with Jenkins
 - 💬 Ask me about Unix, Javascipt,Python, Android
 - 📫 How to reach me: [@codenamebazinga](https://twitter.com/codenamebazinga)
 - 😄 Pronouns: Troubleshooter, Go-to-Guy
-- ⚡ Fun fact: My Name is derived from the king of gods Ambarisa(Lord Indra)
+- ⚡ Fun fact: My Name is derived from the king of gods i.e., Ambarisa (Lord Indra). Greek Equivalent Zeus
 
