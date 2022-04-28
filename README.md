@@ -10,7 +10,6 @@
 - 📫 How to reach me: [@codenamebazinga](https://twitter.com/codenamebazinga)
 - 😄 Pronouns: Troubleshooter, Go-to-Guy
 - ⚡ Fun fact: My Name is derived from the king of gods i.e., Ambarisa (Lord Indra). Greek Equivalent Zeus
-- You can find my resume [here](https://github.com/Amrish-Sharma/Resume)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amrish-Sharma&count_private=true&theme=tokyonight&showicons=true)]()
