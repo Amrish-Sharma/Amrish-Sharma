@@ -14,9 +14,3 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amrish-Sharma&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrish-Sharma&langs_count=8&theme=tokyonight)]()
-
-
-
