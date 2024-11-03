@@ -11,4 +11,12 @@
 - ⚡ Fun fact: My Name is derived from the king of gods i.e., Ambarisa (Lord Indra). Greek Equivalent Zeus
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amrish-Sharma&count_private=true&theme=tokyonight&showicons=true)]()
+
+#### 📈 Have some stats
+
+<!--github-readme-stats: Start-->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Amrish-Sharma&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Amrish-Sharma&hide=html,css&show_icons=true&theme=radical">
+</p>
+<!--github-readme-stats: End-->
