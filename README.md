@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=project1&theme=radical)](https://github.com/Amrish-Sharma/FlipQuotes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=project2&theme=radical)](https://github.com/Amrish-Sharma/getProductive)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=FlipQuotes&theme=radical)](https://github.com/Amrish-Sharma/FlipQuotes](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=FlipQuotes&theme=radical)](https://github.com/Amrish-Sharma/FlipQuotes))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=getProductive&theme=radical)](https://github.com/Amrish-Sharma/getProductive)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just connect.
 
