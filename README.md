@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 - 🌱 I’m currently learning advanced data structures and algorithms.
 - 🌐 I enjoy working on web development and contributing to open source.
-- 📫 How to reach me: [x.com/codenamebazinga](x.com/codenamebazinga)
+- 📫 How to reach me: [x.com/codenamebazinga](https://x.com/codenamebazinga)
 
 ## 🛠️ Technologies & Tools
 
