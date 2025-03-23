@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 ## 📂 Recent Projects
 
+- [KubeFlare](https://github.com/Amrish-Sharma/kubeflare): A FastAPI-based backend service for the KubeFlare Kubernetes log viewer application.
+- [KubeFlare Frontend](https://github.com/Amrish-Sharma/kubeflare-log-viewer): KubeFlare is a React-based web application that provides an intuitive interface for viewing and searching Kubernetes logs across multiple namespaces, pods, and containers.
 - [FlipQuotes](https://github.com/Amrish-Sharma/FlipQuotes): Flip your favorite quotes
 - [getProductive](https://github.com/Amrish-Sharma/getProductive): GetProductive is an Android app designed to help users manage their tasks efficiently. The app provides a simple and intuitive interface for adding, viewing, and managing tasks.
 - [javaDevContainer](https://github.com/Amrish-Sharma/javaDevContainer): This repository provides a development container for Java projects using Visual Studio Code. It includes all the necessary tools and configurations to set up a consistent and efficient development environment.
@@ -32,7 +34,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 - [Personal Website](https://about.me/codenamebazinga)
 
 ## 🌟 Featured Repositories
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=kubeflare&theme=radical)](https://github.com/Amrish-Sharma/kubeflare)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=FlipQuotes&theme=radical)](https://github.com/Amrish-Sharma/FlipQuotes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=getProductive&theme=radical)](https://github.com/Amrish-Sharma/getProductive)
 
