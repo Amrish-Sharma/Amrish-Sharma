@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=kubeflare&theme=radical)](https://github.com/Amrish-Sharma/kubeflare)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=kubeflare-log-viewer&theme=radical)](https://github.com/Amrish-Sharma/kubeflare-log-viewer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=FlipQuotes&theme=radical)](https://github.com/Amrish-Sharma/FlipQuotes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amrish-Sharma&repo=getProductive&theme=radical)](https://github.com/Amrish-Sharma/getProductive)
 
